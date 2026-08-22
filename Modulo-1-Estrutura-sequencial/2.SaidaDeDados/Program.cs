@@ -12,6 +12,7 @@ class Program
 		int y = 32;
 		string z = "Maria";
 		char w = 'F';
+
 		Console.Write("Olá mundo!");
 		Console.WriteLine("Bom dia!");
 		Console.WriteLine("Até mais!");
@@ -26,6 +27,5 @@ class Program
 		Console.WriteLine("O valor do troco é " + x.ToString("F2") + " reais");
 		Console.WriteLine();
 		Console.WriteLine("A paciente " + z + " tem " + y + " anos e seu sexo é: " + w);
-
 	}
 }
