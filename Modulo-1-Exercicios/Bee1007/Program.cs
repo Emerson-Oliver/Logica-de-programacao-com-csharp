@@ -1,9 +1,7 @@
 ﻿namespace Bee1007;  
 
 class Program
-{ 
-	
-	
+{ 		
 		static void Main(string[] args) 
 		{ 
 			Console.Clear();
@@ -15,6 +13,5 @@ class Program
 			int DIFERENCA = (A * B - C * D);
 
 			Console.WriteLine($"DIFERENCA = {DIFERENCA}");
-		}
-	
+		}	
 }
